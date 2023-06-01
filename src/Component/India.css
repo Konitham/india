@@ -1,0 +1,75 @@
+.bg{
+    background-image: url("https://i.pinimg.com/originals/80/b2/0f/80b20f3a1c5dddb776111cc9c38d7139.gif");
+    height: 936px;
+    width: 790px;
+    z-index: -1;
+   margin-top: -190px;
+   
+}
+
+
+.title{
+    font-size: 30px;
+    text-align: center;
+    justify-items: center;
+    
+}
+.hyderabad{
+    margin-top: 580px;
+    margin-left: 300px;
+    cursor: pointer;
+    font-weight: 500;
+    color: rgb(242, 82, 106);
+    &:hover{
+        color: blue;
+}
+}
+
+.Bangalore{
+    margin-top: 625px;
+    margin-left: 250px;
+    cursor: pointer;
+    font-weight: 500;
+    color: chartreuse;
+    &:hover{
+        color: blue;
+    }
+}
+
+.Chennai{
+    margin-top: 625px;
+    margin-left: 330px;
+    cursor: pointer;
+    font-weight: 500;
+    color: darkturquoise;
+    &:hover{
+        color: blue;
+}
+}
+.Mumbai{
+    margin-top: 500px;
+    margin-left: 85px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: transform 1s ease-in-out;
+    color: blue;
+    &:hover{
+        color: rgb(255, 0, 102);
+}
+}
+.Delhi{
+    margin-top: 220px;
+    margin-left: 250px;
+    cursor: pointer;
+    font-weight: 500;
+    color: coral;
+    &:hover{
+        color: rgb(66, 211, 83);
+
+}
+}
+
+.header{
+    color: darkblue;
+    margin-left: 450px;
+}

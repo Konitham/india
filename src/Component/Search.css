@@ -1,0 +1,16 @@
+.list{
+    color: black;
+    text-align: left;
+}
+.container{
+    height: fit-content;
+   
+    justify-items: center;
+    align-items: center;
+    margin-left: 900px;
+}
+.important{
+    color: red;
+    font-weight: 500;
+    font-size: 15px;
+}
