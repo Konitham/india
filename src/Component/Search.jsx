@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./Search.css"
-import {Place} from "../places"
+
 
 const Search = () => {
     const [querry , setQuerry] = useState("");
